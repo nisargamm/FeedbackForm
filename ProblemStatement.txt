@@ -1,0 +1,12 @@
+Create a process which can be used to take survey/feedback from customer 
+
+(Name, Age, Email address, Mobile number and Gender) 
+
+>once all the input is given it should be writtento csv files in the following format name, age, email,mobile and gender.
+                   > If it is given as write male into feedback_m.csv or
+                   > If it is female write it into feedback_f.csv.
+
+
+> Once the information is written into CSV process should prompt user to ask 
+                   > If he wants to enter another feedback, if so it should start from the beginning,
+                   > If not display a greeting message and exit.
